@@ -1,0 +1,33 @@
+extends ../layout
+block content
+	div(id='page-wrapper')
+		.row
+			.col-lg-12
+				.panel.panel-primary
+					.panel-heading
+						strong 新闻列表
+					.panel-body
+						table.table.table-hover(id='newsTable')
+							thread
+								tr
+									th  日期
+									th  时间
+									th  标题
+									th  来源
+								tbody
+		script.
+			var tableContent = '';
+			$.getJSON('http://localhost:8080/news?callback=?', function (data) {
+				var tr;
+				for (var i = 0; i < data.length; i++) {
+					tr = $("<tr url=" + data[i].url + ">");
+					tr.append("<td>" + data[i].date + "</td>");
+					tr.append("<td>" + data[i].timestamp + "</td>");
+					tr.append("<td>" + data[i].title + "</td>");
+					tr.append("<td>" + data[i].source + "</td>");
+					$('#newsTable').append(tr);
+				}
+				$("tr").click(function(){
+					window.location.href = $(this).attr("url");
+				});
+			});
