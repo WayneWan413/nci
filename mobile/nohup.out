@@ -1,0 +1,2324 @@
+Listening on port 3000
+[90mGET /topics [32m200 [90m691ms - 3.26kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m28ms - 97.62kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m20ms - 4.87kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m15ms - 442b[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m12ms - 45.65kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m12ms - 12.88kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m17ms - 72.35kb[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m2ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m4ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m4ms - 12.53kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m4ms - 21.15kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m4ms - 90.92kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m2ms - 28.43kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m2ms - 88.52kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m2ms - 64.21kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m3ms - 9.15kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m3ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m78ms - 237.9kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m222ms - 319.13kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m3ms - 10.59kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m383ms - 400kb[0m
+[90mGET /rest/topics [36m304 [90m38ms[0m
+[90mGET /topics [32m200 [90m114ms - 3.26kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m4ms - 12.88kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m4ms - 97.62kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m8ms - 4.87kb[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m7ms - 45.65kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m7ms - 442b[0m
+[90mGET /stylesheets/docs.css [32m200 [90m10ms - 72.35kb[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m2ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m2ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m3ms - 12.53kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m3ms - 21.15kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m2ms - 90.92kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m3ms - 28.43kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m3ms - 88.52kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m2ms - 64.21kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m2ms - 9.15kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m1ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m4ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m182ms - 319.13kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m303ms - 400kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m247ms - 237.9kb[0m
+[90mGET /rest/topics [32m200 [90m22ms - 185.89kb[0m
+[90mGET /topics [32m200 [90m148ms - 3.26kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m20ms - 9.15kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m21ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m18ms - 24.85kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m18ms - 28.43kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m62ms - 90.92kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m70ms - 64.21kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m74ms - 88.52kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m138ms - 319.13kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m150ms - 237.9kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m214ms - 400kb[0m
+[90mGET /topics [36m304 [90m145ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m4ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m3ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m7ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m2ms[0m
+[90mGET /rest/topics [36m304 [90m25ms[0m
+Listening on port 3000
+[90mGET /topics/11 [32m200 [90m536ms - 4.61kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m10ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m3ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m2ms[0m
+[90mGET /rest/topics/11 [32m200 [90m12ms - 5.23kb[0m
+[90mGET /topics [32m200 [90m136ms - 3.26kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m8ms - 12.88kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m3ms - 4.87kb[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m2ms - 45.65kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m241ms - 97.62kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m448ms - 72.35kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m2ms - 442b[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m2ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m4ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m3ms - 12.53kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m3ms - 21.15kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m3ms - 28.43kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m2ms - 64.21kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m286ms - 90.92kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m506ms - 88.52kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m1ms - 9.15kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m2ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m154ms - 237.9kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m2ms - 10.59kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m1303ms - 400kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m3074ms - 319.13kb[0m
+[90mGET /rest/topics [32m200 [90m35ms - 185.89kb[0m
+[90mGET /topics [32m200 [90m164ms - 3.26kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m2ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m3ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m2ms[0m
+[90mGET /rest/topics [32m200 [90m27ms - 185.89kb[0m
+[90mGET /concept/(id)		 [33m404 [90m232ms - 2.47kb[0m
+[90mGET /news/2?lastid=	 [33m404 [90m273ms - 2.47kb[0m
+[90mGET /news/1			 [33m404 [90m324ms - 2.47kb[0m
+[90mGET / [32m200 [90m165ms - 1.49kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m6ms - 12.88kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m12ms - 442b[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m12ms - 45.65kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m11ms - 4.87kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m17ms - 97.62kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m13ms - 72.35kb[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m2ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m3ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m8ms - 12.53kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m4ms - 21.15kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m7ms - 90.92kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m4ms - 28.43kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m2ms - 88.52kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m6ms - 64.21kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m2ms - 9.15kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m2ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m2ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m539ms - 237.9kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m1895ms - 400kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m1981ms - 319.13kb[0m
+[90mGET /news [32m200 [90m81ms - 2.35kb[0m
+[90mGET /stylesheets/docs.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m7ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m1ms[0m
+[90mGET /news [32m200 [90m2ms[0m
+[90mGET /news [36m304 [90m166ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m12ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m1ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m11ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m11ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m5ms[0m
+[90mGET / [36m304 [90m58ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m3ms[0m
+[90mGET /topics [32m200 [90m83ms - 3.26kb[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m5ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m7ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m1ms[0m
+[90mGET /rest/topics [32m200 [90m34ms - 185.89kb[0m
+[90mGET /topics/188 [32m200 [90m207ms - 4.61kb[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m3ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m2ms[0m
+[90mGET /rest/topics/188 [32m200 [90m3ms - 8.27kb[0m
+[90mGET /topics/8 [32m200 [90m118ms - 4.61kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m2ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m0ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m11ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m1ms[0m
+[90mGET /rest/topics/8 [32m200 [90m4ms - 12.44kb[0m
+[90mGET /topics/45 [32m200 [90m77ms - 4.61kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m3ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m8ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m6ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m2ms[0m
+[90mGET /rest/topics/45 [32m200 [90m3ms - 12.51kb[0m
+[90mGET /news/1 [33m404 [90m121ms - 2.47kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m7ms - 12.88kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m7ms - 97.62kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m10ms - 4.87kb[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m9ms - 45.65kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m8ms - 442b[0m
+[90mGET /stylesheets/docs.css [32m200 [90m10ms - 72.35kb[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m4ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m2ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m2ms - 12.53kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m2ms - 21.15kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m2ms - 90.92kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m3ms - 28.43kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m3ms - 88.52kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m2ms - 64.21kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m2ms - 9.15kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m4ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m2ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m311ms - 237.9kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m623ms - 319.13kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m1618ms - 400kb[0m
+[90mGET /news/1 [33m404 [90m57ms - 2.47kb[0m
+[90mGET /news/1 [33m404 [90m77ms - 2.47kb[0m
+[90mGET /news/1 [33m404 [90m67ms - 2.47kb[0m
+[90mGET /news/1 [33m404 [90m56ms - 2.47kb[0m
+[90mGET /news/1 [33m404 [90m85ms - 2.47kb[0m
+[90mGET / [32m200 [90m90ms - 1.49kb[0m
+Listening on port 3000
+[90mGET / [32m200 [90m605ms - 1.49kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m26ms - 4.87kb[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m21ms - 45.65kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m18ms - 442b[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m15ms - 12.88kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m20ms - 72.35kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m20ms - 97.62kb[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m2ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m5ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m5ms - 12.53kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m5ms - 90.92kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m5ms - 21.15kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m4ms - 28.43kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m4ms - 64.21kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m6ms - 88.52kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m4ms - 9.15kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m150ms - 319.13kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m217ms - 400kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m3ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m3ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m313ms - 237.9kb[0m
+[90mGET /news [32m200 [90m107ms - 2.35kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m9ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m4ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m3ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m9ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m1ms[0m
+[90mGET /news/1 [33m404 [90m73ms - 2.47kb[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m1ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m11ms - 3.98kb[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m7ms - 2.46kb[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms - 2.46kb[0m
+[90mGET /rest/concept/0002 [36m304 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms - 2.46kb[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/concept/(id) [32m200 [90m2ms - 0b[0m
+[90mGET /rest/news/2 [32m200 [90m2ms - 3.98kb[0m
+[90mGET / [36m304 [90m60ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m9ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m3ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m6ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m6ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m1ms[0m
+[90mGET /rest/concept/0003 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/11 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/11 [32m200 [90m1ms[0m
+[90mGET /rest/news/11 [36m304 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms - 2.48kb[0m
+[90mGET /topics [36m304 [90m283ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m5ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m4ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m1ms[0m
+[90mGET /rest/topics [36m304 [90m29ms[0m
+[90mGET /rest/news/1 [32m200 [90m136ms - 3.98kb[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m11ms - 3.98kb[0m
+[90mGET /rest/concept/ [33m404 [90m124ms - 2.47kb[0m
+[90mGET /rest/concept/(0003) [32m200 [90m9ms - 0b[0m
+[90mGET /rest/concept/0003 [32m200 [90m7ms - 2.48kb[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m13ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m7ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m5ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m7ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m5ms[0m
+[90mGET /rest/news/1 [36m304 [90m5ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [36m304 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m7ms - 3.98kb[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/2 [36m304 [90m2ms[0m
+[90mGET /rest/news/2 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m5ms[0m
+[90mGET /rest/news/1 [36m304 [90m7ms[0m
+[90mGET /rest/news/2 [36m304 [90m7ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/2 [36m304 [90m3ms[0m
+[90mGET /rest/news/2 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/2 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/2 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/2 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [36m304 [90m5ms[0m
+[90mGET /rest/news/2 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m8ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m5ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m2ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m2ms - 3.98kb[0m
+[90mGET /rest/news/2 [36m304 [90m5ms[0m
+[90mGET /rest/news/1 [36m304 [90m6ms[0m
+[90mGET / [36m304 [90m63ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m1ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms - 2.47kb[0m
+[90mGET /rest/concept/0003 [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms - 2.47kb[0m
+[90mGET /rest/concept/0003 [36m304 [90m2ms[0m
+[90mGET /rest/news/11?lastid=1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [36m304 [90m4ms[0m
+[90mGET /rest/news/2 [36m304 [90m4ms[0m
+[90mGET /rest/news/2 [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/2 [36m304 [90m4ms[0m
+[90mGET /rest/news/1 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [36m304 [90m2ms[0m
+[90mGET /rest/news/2 [36m304 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1?content-type=json [32m200 [90m5ms - 3.98kb[0m
+[90mGET /rest/news/1?content-type=json [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m9ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m8ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m7ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m5ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m2ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/2 [36m304 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m9ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m2ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m2ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m2ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m3ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m16ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m6ms - 3.98kb[0m
+[90mGET /rest/news/1 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/news/2 [32m200 [90m4ms - 3.98kb[0m
+[90mGET /rest/news/1 [36m304 [90m3ms[0m
+[90mGET /rest/news/2 [36m304 [90m2ms[0m
+Listening on port 3000
+[90mGET / [36m304 [90m522ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m1ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m0ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m12ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m7ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+Listening on port 3000
+[90mGET /rest/concept/0001 [32m200 [90m23ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m5ms[0m
+[90mGET /rest/news/11?lastid=1 [32m200 [90m4ms[0m
+[90mGET /rest/news/11?lastid=1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/11?lastid=1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m25ms[0m
+[90mGET /rest/news/2 [32m200 [90m25ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m12ms[0m
+[90mGET /rest/news/2 [32m200 [90m10ms[0m
+[90mGET /rest/news/2 [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m25ms[0m
+[90mGET /rest/news/1 [32m200 [90m19ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m8ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m11ms[0m
+[90mGET /rest/news/2 [32m200 [90m9ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m12ms[0m
+[90mGET /rest/news/2 [32m200 [90m10ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m9ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m8ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m1ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m9ms[0m
+[90mGET /rest/news/2 [32m200 [90m10ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m8ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m14ms[0m
+[90mGET /rest/news/2 [32m200 [90m11ms[0m
+[90mGET /rest/news/1 [32m200 [90m12ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m8ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m19ms[0m
+[90mGET /rest/news/2 [32m200 [90m12ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m11ms[0m
+[90mGET /rest/news/2 [32m200 [90m8ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m12ms[0m
+[90mGET /rest/news/2 [32m200 [90m12ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+Listening on port 3000
+[90mGET / [32m200 [90m540ms - 1.49kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m7ms - 12.88kb[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m13ms - 45.65kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m15ms - 97.62kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m14ms - 72.35kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m10ms - 4.87kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m7ms - 442b[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m2ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m5ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m5ms - 12.53kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m3ms - 21.15kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m4ms - 90.92kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m2ms - 28.43kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m8ms - 9.15kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m18ms - 64.21kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m12ms - 88.52kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m3ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m3ms - 10.59kb[0m
+[90mGET /rest/concept/0003 [32m200 [90m13ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m1735ms - 319.13kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m1876ms - 400kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m1818ms - 237.9kb[0m
+[90mGET /rest/concept [33m404 [90m91ms - 2.47kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m3ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m6ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m4ms - 88.52kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m2ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m3ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m421ms - 319.13kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m722ms - 237.9kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m1977ms - 400kb[0m
+Listening on port 3000
+Listening on port 3000
+[90mGET /rest/concept [32m200 [90m24ms[0m
+[90mGET /rest/concept [32m200 [90m6ms[0m
+[90mGET /topics [32m200 [90m536ms - 3.26kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m14ms - 12.88kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m3ms - 4.87kb[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m3ms - 45.65kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m1ms - 442b[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m3ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m3ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m2ms - 12.53kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m2ms - 21.15kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m153ms - 97.62kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m2ms - 28.43kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m4ms - 9.15kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m162ms - 72.35kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m3ms - 24.85kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m260ms - 90.92kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m298ms - 88.52kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m324ms - 64.21kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m5ms - 10.59kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m2398ms - 400kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m4663ms - 237.9kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m5389ms - 319.13kb[0m
+[90mGET /rest/topics [32m200 [90m33ms[0m
+[90mGET /topics [36m304 [90m176ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m3ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m10ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m7ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m6ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m6ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m4ms[0m
+[90mGET /rest/topics [32m200 [90m27ms[0m
+[90mGET /topics [36m304 [90m102ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m2ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m5ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m3ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m1ms[0m
+[90mGET /rest/topics [32m200 [90m19ms[0m
+[90mGET /topics [32m200 [90m105ms - 3.26kb[0m
+[90mGET /topics [32m200 [90m113ms - 3.26kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m18ms - 28.43kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m21ms - 9.15kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m18ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m17ms - 10.59kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m63ms - 90.92kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m24ms - 12.88kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m78ms - 64.21kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m78ms - 88.52kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m3ms - 97.62kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m12ms - 72.35kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m7ms - 4.87kb[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m4ms - 45.65kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m2ms - 442b[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m152ms - 237.9kb[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m3ms - 2.62kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m172ms - 319.13kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m183ms - 400kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m3ms - 21.15kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m2ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m1ms - 12.53kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m8ms - 28.43kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m8ms - 9.15kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m12ms - 90.92kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m11ms - 88.52kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m10ms - 64.21kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m173ms - 400kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m115ms - 237.9kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m1ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m2ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m246ms - 319.13kb[0m
+[90mGET /rest/topics [32m200 [90m23ms[0m
+[90mGET /rest/news/2 [32m200 [90m19ms[0m
+[90mGET /rest/news/1 [32m200 [90m13ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m14ms[0m
+[90mGET /rest/news/2 [32m200 [90m13ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m25ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m18ms[0m
+[90mGET /rest/news/1 [32m200 [90m12ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m16ms[0m
+[90mGET /rest/news/2 [32m200 [90m17ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m25ms[0m
+[90mGET /rest/news/2 [32m200 [90m8ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m8ms[0m
+[90mGET /rest/news/2 [32m200 [90m9ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m7ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m10ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/news/2 [32m200 [90m9ms[0m
+[90mGET /rest/concept [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/news/2 [32m200 [90m8ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m13ms[0m
+[90mGET /rest/concept [32m200 [90m11ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m9ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m8ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/concept [32m200 [90m5ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m8ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m150ms[0m
+[90mGET /rest/news/1 [32m200 [90m136ms[0m
+[90mGET /rest/concept [32m200 [90m11ms[0m
+[90mGET /rest/news/2 [32m200 [90m14ms[0m
+[90mGET /rest/news/1 [32m200 [90m12ms[0m
+[90mGET /rest/news/1 [32m200 [90m15ms[0m
+[90mGET /rest/news/2 [32m200 [90m15ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m7ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m15ms[0m
+[90mGET /rest/news/2 [32m200 [90m9ms[0m
+[90mGET /rest/news/2 [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m8ms[0m
+[90mGET /rest/news/2 [32m200 [90m8ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m13ms[0m
+[90mGET /rest/news/2 [32m200 [90m9ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m9ms[0m
+[90mGET /rest/news/1 [32m200 [90m8ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m11ms[0m
+[90mGET /rest/news/2 [32m200 [90m10ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2 [32m200 [90m8ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m11ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m19ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m8ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m7ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m12ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m21ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m18ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m8ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m6ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m135ms[0m
+[90mGET /rest/news/1 [32m200 [90m113ms[0m
+[90mGET /rest/concept [32m200 [90m6ms[0m
+[90mGET /rest/concept [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m13ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m8ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m10ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m15ms[0m
+[90mGET /rest/news/1 [32m200 [90m13ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m7ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m13ms[0m
+[90mGET /rest/news/1 [32m200 [90m12ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m9ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m8ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m11ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m13ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m11ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m1ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m1ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m9ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m7ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m11ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m8ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m10ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m12ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m9ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m7ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m17ms[0m
+[90mGET /rest/news/1 [32m200 [90m14ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m9ms[0m
+[90mGET /rest/news/1 [32m200 [90m9ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m13ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m9ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m28ms[0m
+[90mGET /rest/news/1 [32m200 [90m17ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m11ms[0m
+[90mGET /rest/news/1 [32m200 [90m11ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m22ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m17ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept%EF%BC%8F0001 [33m404 [90m95ms - 2.47kb[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m1ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m10ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m10ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m59ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m17ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m8ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m40ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m7ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m7ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid=0091 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m7ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m6ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m8ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m51ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m9ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m12ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m79ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m45ms[0m
+[90mGET /rest/concept [32m200 [90m6ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m1ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET / [32m200 [90m77ms - 1.49kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m4ms - 97.62kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m12ms - 12.88kb[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m11ms - 45.65kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m13ms - 72.35kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m11ms - 4.87kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m19ms - 442b[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m2ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m15ms - 2.62kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m8ms - 12.53kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m4ms - 21.15kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m5ms - 90.92kb[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m4ms - 28.43kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m6ms - 64.21kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m5ms - 88.52kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m2ms - 9.15kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m171ms - 400kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m2ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m1ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m106ms - 319.13kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m123ms - 237.9kb[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news [33m404 [90m60ms - 2.47kb[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m4ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept/1 [32m200 [90m170ms[0m
+[90mGET /rest/concept/1 [32m200 [90m9ms[0m
+[90mGET / [32m200 [90m508ms - 1.49kb[0m
+[90mGET /stylesheets/bootstrap.min.css [32m200 [90m34ms - 97.62kb[0m
+[90mGET /stylesheets/docs.css [32m200 [90m11ms - 72.35kb[0m
+[90mGET /stylesheets/sb-admin.css [32m200 [90m3ms - 4.87kb[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [32m200 [90m3ms - 442b[0m
+[90mGET /stylesheets/colorbrewer.css [32m200 [90m2ms - 45.65kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [32m200 [90m3ms - 12.88kb[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [32m200 [90m9ms - 4.83kb[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [32m200 [90m6ms - 12.53kb[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [32m200 [90m3ms - 2.62kb[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [32m200 [90m3ms - 9.15kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [32m200 [90m6ms - 64.21kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [32m200 [90m10ms - 10.59kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [32m200 [90m9ms - 24.85kb[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m99ms - 237.9kb[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m2ms - 21.15kb[0m
+[90mGET /rest/concept/1 [32m200 [90m2ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m402ms - 319.13kb[0m
+[90mGET / [36m304 [90m62ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m91ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m1ms[0m
+[90mGET /font-awesome/css/font-awesome.css [32m200 [90m1ms - 21.15kb[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [32m200 [90m14ms - 28.43kb[0m
+[90mGET /javascripts/jquery-1.10.2.js [32m200 [90m14ms - 90.92kb[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [32m200 [90m14ms - 88.52kb[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [32m200 [90m1ms[0m
+[90mGET /rest/concept/1 [32m200 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [32m200 [90m1027ms - 319.13kb[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [32m200 [90m2016ms - 400kb[0m
+[90mGET /rest/news/1 [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m9ms[0m
+[90mGET /rest/news [33m404 [90m79ms - 2.47kb[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m0ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m1ms[0m
+[90mGET /rest/concept [32m200 [90m1ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET / [36m304 [90m50ms[0m
+[90mGET /stylesheets/docs.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/bootstrap.min.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/plugins/morris/morris-0.4.3.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/colorbrewer.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/bootstrap-theme.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/plugins/timeline/timeline.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/plugins/dataTables/dataTables.bootstrap.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.10.2.js [36m304 [90m2ms[0m
+[90mGET /font-awesome/css/font-awesome.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/plugins/nvd3/nv.d3.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/sb-admin.css [36m304 [90m2ms[0m
+[90mGET /javascripts/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/raphael-2.1.0.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/morris/morris.js [36m304 [90m2ms[0m
+[90mGET /javascripts/plugins/dataTables/jquery.dataTables.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/dataTables/dataTables.bootstrap.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.js [36m304 [90m1ms[0m
+[90mGET /javascripts/plugins/nvd3/dimple.v2.0.1.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.geo.js [36m304 [90m0ms[0m
+[90mGET /javascripts/plugins/nvd3/d3.layout.cloud.js [36m304 [90m0ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m6ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m11ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m10ms[0m
+[90mGET /rest/concept [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m5ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m7ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m1ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0003 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m1ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m1ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m4ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m8ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m4ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0001 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m5ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m5ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/2?lastid= [32m200 [90m3ms[0m
+[90mGET /rest/news/1 [32m200 [90m3ms[0m
+[90mGET /rest/concept/0002 [32m200 [90m2ms[0m
+[90mGET /rest/news/1 [32m200 [90m7ms[0m

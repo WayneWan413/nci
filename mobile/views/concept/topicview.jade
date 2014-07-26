@@ -1,0 +1,47 @@
+extends ../layout
+block content
+	div(id='page-wrapper')
+		.row
+			.col-lg-12
+				.panel.panel-primary
+					.panel-heading
+						strong 话题列表
+					.panel-body
+						table.table.table-hover(id='topicTable')
+							thread
+								tr
+									th  话题
+									th  词1
+									th  词2
+									th  词3
+									th  词4
+									th  词5
+									th  词6
+									th  词7
+									th  词8
+									th  词9
+									th  词10
+								tbody
+		script.
+			var tableContent = '';
+			$.getJSON('http://61.152.201.42:3000/rest/topics', function (data) {
+				var tr;
+				for (var i = 0; i < data.length; i++) {
+					tr = $("<tr url=http://61.152.201.42:3000/topics/" + data[i].id + ">");
+					tr.append("<td>" + data[i].id + "</td>");
+					tr.append("<td>" + data[i].word_list[0].word + "(" + data[i].word_list[0].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[1].word + "(" + data[i].word_list[1].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[2].word + "(" + data[i].word_list[2].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[3].word + "(" + data[i].word_list[3].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[4].word + "(" + data[i].word_list[4].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[5].word + "(" + data[i].word_list[5].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[6].word + "(" + data[i].word_list[6].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[7].word + "(" + data[i].word_list[7].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[8].word + "(" + data[i].word_list[8].freq + "%)</td>");
+					tr.append("<td>" + data[i].word_list[9].word + "(" + data[i].word_list[9].freq + "%)</td>");
+					$('#topicTable').append(tr);
+				}
+				$("tr").click(function(){
+					window.location.href = $(this).attr("url");
+				});
+			});

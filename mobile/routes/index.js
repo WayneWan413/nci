@@ -18,4 +18,12 @@ router.get('/invest', function(req, res) {
 	res.render('invest/investview', { title: 'Invest View' ,user:req.user});
 });
 
+router.get('/topics', function(req, res) {
+	res.render('concept/topicview', { title: 'Topics View' ,user:req.user});
+});
+
+router.get('/topics/:name', function(req, res) {
+	res.render('concept/onetopic', { title: req.params.name, user:req.user });
+});
+
 module.exports = router;

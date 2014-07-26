@@ -1,0 +1,66 @@
+extends ../layout
+block content
+	div(id='page-wrapper')
+		.row
+			.col-lg-12
+				.panel.panel-primary
+					.panel-heading
+						strong 话题列表
+					.panel-body
+						table.table.table-hover(id='topicTable')
+							thread
+								tr
+									th  话题
+									th  词1
+									th  词2
+									th  词3
+									th  词4
+									th  词5
+									th  词6
+									th  词7
+									th  词8
+									th  词9
+									th  词10
+								tbody
+		.row
+			.col-lg-12
+				.panel.panel-primary
+					.panel-heading
+						strong 话题列表
+					.panel-body
+						table.table.table-hover(id='titleTable')
+							thread
+								tr
+									th  标题
+									th  置信度
+								tbody
+		script.
+			var tableContent = '';
+			var urlstr = 'http://61.152.201.42:3000/rest/topics/#{title}'
+			$.getJSON(urlstr, function (data) {
+				var tr;
+				
+				tr = $("<tr>");
+				tr.append("<td>" + data.id + "</td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-primary' word=" + data.word_list[0].word + ">"+ data.word_list[0].word + "(" + data.word_list[0].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-success' word=" + data.word_list[1].word + ">" + data.word_list[1].word + "(" + data.word_list[1].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-info' word=" + data.word_list[2].word + ">" + data.word_list[2].word + "(" + data.word_list[2].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-warning' word=" + data.word_list[3].word + ">" + data.word_list[3].word + "(" + data.word_list[3].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-danger' word=" + data.word_list[4].word + ">" + data.word_list[4].word + "(" + data.word_list[4].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-primary' word=" + data.word_list[5].word + ">" + data.word_list[5].word + "(" + data.word_list[5].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-success' word=" + data.word_list[6].word + ">" + data.word_list[6].word + "(" + data.word_list[6].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-info' word=" + data.word_list[7].word + ">" + data.word_list[7].word + "(" + data.word_list[7].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-warning' word=" + data.word_list[8].word + ">" + data.word_list[8].word + "(" + data.word_list[8].freq + "%)</button></td>");
+				tr.append("<td><button id='word_button' type='button' class='btn btn-danger' word=" + data.word_list[9].word + ">" + data.word_list[9].word + "(" + data.word_list[9].freq + "%)</button></td>");
+				$('#topicTable').append(tr);
+	
+				
+				for (var i = 0; i < data.docs.length; i++) {
+					tr = $("<tr>");
+					tr.append("<td><a href=" + data.docs[i].url + ">"+ data.docs[i].title + "</a></td>");
+					tr.append("<td>" + data.docs[i].corr + "</td>");
+					
+					$('#titleTable').append(tr);
+				}
+				
+			});
