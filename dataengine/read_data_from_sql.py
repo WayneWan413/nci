@@ -48,6 +48,8 @@ for row in rows:
     if not conceptDict.has_key(conceptName):
         conceptDict[conceptName] = iNextConceptID
         dictMongoConcept = {'conceptname':conceptName,'conceptid':('%04d' % iNextConceptID),'insertdate':('%s' % datetime.now().date())}
+#       factor.conceptlist
+#   {'conceptname','conceptid','insertdate'}
         mongoConceptList.insert(dictMongoConcept)
         iNextConceptID = iNextConceptID + 1
         
@@ -93,6 +95,8 @@ for concept in sorted(latestConcept,latestConcept.get,reverse=True):
 mongoTopConcept.remove()
 
 for concept in topConcept:
+#   factor.topconcept
+# {'conceptid','concept','rank','value'}
     mongoTopConcept.insert(concept)
 
 mongoConceptIndex.remove()
@@ -103,12 +107,25 @@ for name,concept in dictConceptByName.items():
     oneConcept['conceptid'] = concept['conceptid']
     stocklist = []
     index = []
-    for t in concept['index'].keys():
-        index.append({'time':('%s' % t),'value':('%d' % concept['index'][t])})
+    statlist = []
+    i = 0
+    for time,value in sorted(concept['index'].items,lambda d:d[0],reverse=True):
+        if i > 99:
+            break
+        index.append({'time':('%s' % time),'value':('%d' % value)})
+        i = i + 1
+    if len(index) > 6:
+        statlist.append({'name':'热度','value':index[0]['value']})
+        statlist.append({'name':'变化','value':'%d' % (int(index[0]['value']) - sum(map(lambda d:int(d['value']),index[1:6]))/5)})
+        statlist.append({'name':'相关性','value': '0'})
+    
     oneConcept['index'] = index
+    oneConcept['statlist'] = statlist
     print name
     if concept.has_key('stock_list'):
         oneConcept['stocklist'] = concept['stock_list']
     else:
         oneConcept['stocklist'] = []
+#   factor.concept
+# {'concept','conceptid','index':[{'time','value'}],'statlist':[{'name','value'}],'stocklist':[{'stockcode','stockname','corr'}]}
     mongoConceptIndex.insert(oneConcept)
