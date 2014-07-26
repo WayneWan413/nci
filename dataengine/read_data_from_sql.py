@@ -109,7 +109,7 @@ for name,concept in dictConceptByName.items():
     index = []
     statlist = []
     i = 0
-    for time,value in sorted(concept['index'].items,lambda d:d[0],reverse=True):
+    for time,value in sorted(concept['index'].items(),key=lambda d:d[0],reverse=True):
         if i > 99:
             break
         index.append({'time':('%s' % time),'value':('%d' % value)})
