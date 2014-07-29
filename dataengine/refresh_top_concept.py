@@ -17,10 +17,12 @@ for reader in listTopConceptFromMongo:
 
 listConcept.sort(key=lambda d:d['rank'])
 
-for concept in listConcept:
-    listConcept['rank'] = '%d' % concept['rank']
-    listConcept['value'] = '%d' % concept['value']
-    listConcept['conceptvalue'] = '%d' % concept['value']
+for i in range(0,len(listConcept)):
+    concept = listConcept[i]
+    print concept
+    listConcept[i]['rank'] = '%d' % concept['rank']
+    listConcept[i]['value'] = '%d' % concept['conceptvalue']
+    listConcept[i]['conceptvalue'] = '%d' % concept['conceptvalue']
 
 r = redis.StrictRedis(host='localhost', port=6379, db=0)
 r.set('concept',json.dumps({'list':listConcept}))
