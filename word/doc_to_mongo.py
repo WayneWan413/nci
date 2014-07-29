@@ -88,7 +88,6 @@ for filename in filenameList:
                 for word,value in sorted(dictConceptStat.items(),key=lambda d:d[1],reverse=True):
                     	listConceptWord.append({'conceptname':word,'conceptid':dictConceptList[word],'corr':float(value)/s})
                 cutResult['concept'] = '1'
-		print "========================================================"
                 cutResult['conceptlist'] = []
                 for concept in listConceptWord:
                     	cutResult['conceptlist'].append({'conceptid':concept['conceptid'],'id':concept['conceptid'],'name':concept['conceptname'],'conceptname':concept['conceptname'],'corr':'%.2f' % concept['corr']})
@@ -96,9 +95,12 @@ for filename in filenameList:
             tmpDir = XML_DEST_DIR + 'error/' + filedate
             cutResult = {'result':'0','posttime':0} 
         i = i + 1
+	if i > 1000:
+		break
         if i % 1000 == 0:
             print i
         destFile = tmpDir + '/' + basename
+	print destFile
         fileList.append({'seqid':seqid,'cutresult':cutResult,'xml':xmldict,'srcfile':filename,'destfile':destFile})
     if not exists(tmpDir):
         os.mkdir(tmpDir)
@@ -109,7 +111,6 @@ fileList = sorted(fileList,key=lambda files:(files['cutresult']['posttime']),rev
 for doc in fileList:
     try:
         os.rename(doc['srcfile'],doc['destfile'])
-	print doc['destfile']
         MONGO_DOC_COLLECTION.insert(doc)
     except Exception as err:
 	continue
