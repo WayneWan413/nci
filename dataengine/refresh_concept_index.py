@@ -30,6 +30,7 @@ for reader in listConceptFromMongo:
     
     stocklist = reader['stocklist']
     index = reader['index']
+    indexdata = reader['indexdata']
     statlist = reader['statlist']
     
     if len(statlist) < 1:
@@ -59,7 +60,7 @@ for reader in listConceptFromMongo:
         'sitename':sitename,
         'abstract':abstract})
     listConcept.append({'id':conceptid,'conceptid':conceptid,'concept':reader['concept'],'conceptname':reader['concept'],
-        'statlist':statlist,'index':index,'stocklist':stocklist,
+        'statlist':statlist,'index':index,'indexdata':indexdata,'stocklist':stocklist,
         'news':listNews
         })
     

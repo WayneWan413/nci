@@ -109,7 +109,7 @@ for name,concept in dictConceptByName.items():
     index = []
     statlist = []
     i = 0
-    for time,value in sorted(concept['index'].items(),key=lambda d:d[0]):
+    for time,value in sorted(concept['index'].items(),key=lambda d:d[0],reverse=True):
         if i > 120:
             break
         index.append({'time':('%s' % time),'value':('%d' % value)})
@@ -119,8 +119,18 @@ for name,concept in dictConceptByName.items():
         statlist.append({'name':'变化','value':'%d' % (int(index[0]['value']) - sum(map(lambda d:int(d['value']),index[1:6]))/5)})
         statlist.append({'name':'相关性','value': '0'})
     
-    oneConcept['index'] = index
+    index1 = index[0:10]
+    index1.reverse()
+    index2 = index[0:20]
+    index2.reverse()
+    index3 = index[0:60]
+    index3.reverse()
+    index4 = index[0:120]
+    index4.reverse()
+    oneConcept['indexdata'] ={'index1':index1,'index2':index2,'index3':index3,'index4':index4}
     oneConcept['statlist'] = statlist
+    index.reverse()
+    oneConcept['index'] = index
     print name
     if concept.has_key('stock_list'):
         oneConcept['stocklist'] = concept['stock_list']
