@@ -85,11 +85,12 @@ for row in rows:
             dictConceptByName[conceptName]['stock_list'] = [{'stockcode':stockCode,'stockname':stockName,'corr':('%0.0f' % corrValue)}]
 
 maxDate = max(dictConceptByDate.keys())
+print maxDate
 topConcept = []
 latestConcept = dictConceptByDate[maxDate]
-
+print latestConcept
 i = 1
-for concept in sorted(latestConcept,latestConcept.get,reverse=True):
+for concept,value in sorted(latestConcept.items(),key=lambda d:d[1],reverse=True):
     topConcept.append({'conceptid':('%04d' % conceptDict[concept]),'concept':concept,'rank':('%d' % i),'value':('%d' % latestConcept[concept])})
     i = i + 1
 mongoTopConcept.remove()
@@ -118,7 +119,11 @@ for name,concept in dictConceptByName.items():
         statlist.append({'name':'热度','value':index[0]['value']})
         statlist.append({'name':'变化','value':'%d' % (int(index[0]['value']) - sum(map(lambda d:int(d['value']),index[1:6]))/5)})
         statlist.append({'name':'相关性','value': '0'})
-    
+    else:
+        statlist.append({'name':'热度','value':index[0]['value']})
+        statlist.append({'name':'变化','value':'%d' % 0})
+        statlist.append({'name':'相关性','value': '0'})
+        
     index1 = index[0:10]
     index1.reverse()
     index2 = index[0:20]
