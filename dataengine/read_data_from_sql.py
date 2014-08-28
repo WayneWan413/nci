@@ -22,6 +22,13 @@ def idFromMongo(str):
 def idToMongo(id):
     return('%04d' % id)
 
+def ema(values):
+    a = []
+    a.append({'time':values[0]['time'],'value':values[0]['value']})
+    for i in range(1,len(values)):
+        a.append({'time':values[i]['time'],'value':'%d' % (int(a[i-1]['value']) / 2 + int(values[i]['value']) / 2)})
+    return a
+
 # Code following is not suitable for parallel computing
 conceptDict = {}
 conceptListReader = mongoConceptList.find()
@@ -132,7 +139,7 @@ for name,concept in dictConceptByName.items():
     index3.reverse()
     index4 = index[0:120]
     index4.reverse()
-    oneConcept['indexdata'] ={'index1':index1,'index2':index2,'index3':index3,'index4':index4}
+    oneConcept['indexdata'] ={'index1':index1,'index2':index2,'index3':ema(index3),'index4':ema(index4)}
     oneConcept['statlist'] = statlist
     index.reverse()
     oneConcept['index'] = index
